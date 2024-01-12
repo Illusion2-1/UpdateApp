@@ -1,0 +1,6 @@
+<Server>
+    <TargetFolderPath>/path/to/target</TargetFolderPath>
+    <ServerPort>8086</ServerPort>
+    <Salt>sha256-salt-here</Salt>
+    <HeartBeatUrl>uptime-kuma-passive-url-here</HeartBeatUrl>
+</Server>

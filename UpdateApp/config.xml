@@ -1,0 +1,8 @@
+<Client>
+    <ResourceUri>http://example.com/</ResourceUri>
+    <BasePath>/path/to/primary-path</BasePath>
+    <RefPath>mods</RefPath>
+    <Salt>sha256-salt-here</Salt>
+    <JsonDataAddress>example.com</JsonDataAddress>
+    <JsonDataAddressPort>8086</JsonDataAddressPort>
+</Client>
